@@ -3,6 +3,7 @@
 @section('title', 'Templates')
 
 @section('content')
+
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/notie/dist/notie.min.css">
 <div class="row  m-0">
 	<div class="col-lg-12">
@@ -23,7 +24,6 @@
 						</div>
 					</div>
 			</div> 
-			
 
                     @if ($templates->isEmpty())
                     
@@ -125,7 +125,9 @@
                 
     </div>
 </div>
+
 <script src="https://unpkg.com/notie"></script>
+
 <script type="text/javascript">
 function showList (listIdToShow, listIdToHide) { 
 	$('#'+listIdToShow).show();

@@ -8,7 +8,8 @@
 <link rel="stylesheet" type="text/css" href="https://unpkg.com/notie/dist/notie.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
 
-     <style type="text/css">
+   <style type="text/css">
+
          
         .CodeMirror {
             height: 400px;
