@@ -12,6 +12,7 @@
     "homepage": "https://github.com/Qoraiche/laravel-mail-editor",
     "keywords": ["Laravel", "mailEclipse", "mailable-editor", "laravel-mail", "laravel-mailable", "mailable", "markdown"],
     "require": {
+        "php": "^7.1.3 || ^8.0",
         "illuminate/support": "^8.0",
         "reecem/mocker": "^1.1",
         "laravel/legacy-factories": "^1.0"
